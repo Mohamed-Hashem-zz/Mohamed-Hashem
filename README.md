@@ -65,7 +65,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://t.me/joinchat/JT-1y_xK_xk1ZjI0"><img src="https://img.shields.io/badge/-Topics%20and%20Courses-09c?style=flat&logo=telegram"/></a>
+<a href="https://t.me/topics_and_courses_mh"><img src="https://img.shields.io/badge/-Topics%20and%20Courses-09c?style=flat&logo=telegram"/></a>
 <a href="https://codeforces.com/profile/Mohamed_Ha4em"><img src="https://img.shields.io/badge/-Mohamed_Ha4em-white?style=flat&logo=Codeforces&logoColor=inhert"/></a>
 <a href="https://www.linkedin.com/in/mohamedhashem/"><img src="https://img.shields.io/badge/-mohamedhashem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hamo.hashem2019@gmail.com"><img src="https://img.shields.io/badge/-hamo.hashem2019-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
