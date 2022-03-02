@@ -65,12 +65,12 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://t.me/topics_and_courses_mh"><img src="https://img.shields.io/badge/-Topics%20and%20Courses-09c?style=flat&logo=telegram"/></a>
+<a href="https://t.me/software_engineering_mh"><img src="https://img.shields.io/badge/-Software%20Engineering-09c?style=flat&logo=telegram"/></a>
 <a href="https://codeforces.com/profile/Mohamed_Ha4em"><img src="https://img.shields.io/badge/-Mohamed_Ha4em-white?style=flat&logo=Codeforces&logoColor=inhert"/></a>
 <a href="https://www.linkedin.com/in/mohamedhashem/"><img src="https://img.shields.io/badge/-mohamedhashem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hamo.hashem2019@gmail.com"><img src="https://img.shields.io/badge/-hamo.hashem2019-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/mohamed.ha4em"><img src="https://img.shields.io/badge/-mohamed.ha4em-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/Mohamd.Ha4em"><img src="https://img.shields.io/badge/-Mohamd.Ha4em-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/MohamedAhmedHasheem/"><img src="https://img.shields.io/badge/-MohamedAhmedHasheem-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 -----
